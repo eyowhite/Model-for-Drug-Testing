@@ -1,6 +1,12 @@
 # Machine Learning Model for Drug Testing
 
 ## Table of Content
+- [Project Overview](#project-overview)
+- [Project Aim](#project-aim)
+- [Project Methodology](#project-methodology)
+- [Model Scores and Evaluation](#model-scores-and-evaluation)
+- [Project Outcomes](#project-outcomes)
+
 
 ### Project Overview
 
@@ -15,7 +21,7 @@ To create a fitting model that predicts the drug group of an individual taking t
 - Fitting (training) Model adopted: Multiclass decision Forest.
 - Dataset Used: Drugtest.csv
 
-### Model scores and evaluation
+### Model Scores and Evaluation
 
 Model score – On testing using 30% of the dataset, the model score indicates an almost even distribution of the target variable, Drug Group as shown:
 
@@ -25,7 +31,7 @@ Model score – On testing using 30% of the dataset, the model score indicates a
 
 <img width="197" alt="ML Metrics" src="https://github.com/eyowhite/Model-for-Drug-Testing/assets/151957176/be057209-b84b-4aa4-902a-8794e5e7b309">
 
-### Project outcomes
+### Project Outcomes
 Accurate prediction of drug groups indicated by high accuracy, precision, F1 and recall scores demonstrating the effectiveness of the model.
 
 
