@@ -10,7 +10,7 @@
 
 ### Project Overview
 
-Our client required a predictive model that accurately categorises individuals into drug groups based on specific input variables. 
+Our client required a [predictive model](https://eyowhite.com/projects/) that accurately categorises individuals into drug groups based on specific input variables. 
 
 ### Project Aim
 To create a fitting model that predicts the drug group of an individual taking the Age, Gender, BP, BMI as an entry point.
